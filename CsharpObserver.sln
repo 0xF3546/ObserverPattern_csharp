@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpObserver", "CsharpObserver\CsharpObserver.csproj", "{B58512DC-7F28-4629-A235-07341D8214D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpObserver.Tests", "CsharpObserver.Tests\CsharpObserver.Tests.csproj", "{F63F969F-0F3A-484C-B74F-04ABC1F10F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58512DC-7F28-4629-A235-07341D8214D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58512DC-7F28-4629-A235-07341D8214D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58512DC-7F28-4629-A235-07341D8214D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58512DC-7F28-4629-A235-07341D8214D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63F969F-0F3A-484C-B74F-04ABC1F10F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63F969F-0F3A-484C-B74F-04ABC1F10F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63F969F-0F3A-484C-B74F-04ABC1F10F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63F969F-0F3A-484C-B74F-04ABC1F10F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9B2C685-13BC-481F-B078-97BCCCECC395}
+	EndGlobalSection
+EndGlobal
